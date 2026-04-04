@@ -1,4 +1,4 @@
-package ru.yourteam.lab.validation;
+package main.java.validation;
 
 public final class SampleValidator {
     private static final int MAX_NAME_LENGTH = 128;

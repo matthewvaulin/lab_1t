@@ -1,11 +1,11 @@
-package ru.yourteam.lab.service;
+package main.java.service;
 
-import ru.yourteam.lab.domain.Measurement;
-import ru.yourteam.lab.domain.MeasurementParam;
-import ru.yourteam.lab.domain.Sample;
-import ru.yourteam.lab.domain.SampleStatus;
-import ru.yourteam.lab.validation.MeasurementValidator;
-import ru.yourteam.lab.validation.ValidationException;
+import main.java.domain.Measurement;
+import main.java.domain.MeasurementParam;
+import main.java.domain.Sample;
+import main.java.domain.SampleStatus;
+import main.java.validation.MeasurementValidator;
+import main.java.validation.ValidationException;
 
 import java.time.Instant;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package ru.yourteam.lab.domain;
+package main.java.domain;
 
 public enum MeasurementParam {
     PH,

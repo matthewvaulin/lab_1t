@@ -1,14 +1,14 @@
-package ru.yourteam.lab.cli;
+package main.java.cli;
 
-import ru.yourteam.lab.domain.Measurement;
-import ru.yourteam.lab.domain.MeasurementParam;
-import ru.yourteam.lab.domain.Protocol;
-import ru.yourteam.lab.domain.Sample;
-import ru.yourteam.lab.domain.SampleStatus;
-import ru.yourteam.lab.service.MeasurementService;
-import ru.yourteam.lab.service.ProtocolService;
-import ru.yourteam.lab.service.SampleService;
-import ru.yourteam.lab.validation.ValidationException;
+import main.java.domain.Measurement;
+import main.java.domain.MeasurementParam;
+import main.java.domain.Protocol;
+import main.java.domain.Sample;
+import main.java.domain.SampleStatus;
+import main.java.service.MeasurementService;
+import main.java.service.ProtocolService;
+import main.java.service.SampleService;
+import main.java.validation.ValidationException;
 
 import java.math.BigDecimal;
 import java.time.ZoneId;

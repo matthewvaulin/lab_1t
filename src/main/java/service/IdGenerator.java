@@ -1,4 +1,4 @@
-package ru.yourteam.lab.service;
+package main.java.service;
 
 public final class IdGenerator {
     private static long sampleIdCounter = 1;
