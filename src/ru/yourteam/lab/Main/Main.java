@@ -1,6 +1,6 @@
-package main.java;
+package ru.yourteam.lab.Main;
 
-import main.java.cli.CommandProcessor;
+import ru.yourteam.lab.Main.cli.CommandProcessor;
 
 import java.util.Scanner;
 

@@ -20,7 +20,7 @@
 
 ---------------  S U M M A R Y ------------
 
-Command Line: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\lib\idea_rt.jar=62145 -Dfile.encoding=UTF-8 main.java.Main
+Command Line: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\lib\idea_rt.jar=62145 -Dfile.encoding=UTF-8 ru.yourteam.lab.Main.Main
 
 Host: AMD Ryzen 7 4800H with Radeon Graphics         , 16 cores, 15G,  Windows 10 , 64 bit Build 19041 (10.0.19041.1202)
 Time: Sat Apr  4 11:04:56 2026 RTZ 4 (s 10 , 64 bit Build 19041 (10.0.19041.1202) elapsed time: 100.047817 seconds (0d 0h 1m 40s)
@@ -838,7 +838,7 @@ symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;C:\Pr
 
 VM Arguments:
 jvm_args: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\lib\idea_rt.jar=62145 -Dfile.encoding=UTF-8 
-java_command: main.java.Main
+java_command: ru.yourteam.lab.Main.Main
 java_class_path (initial): C:\Users\������\IdeaProjects\lab_1t\out\production\lab_1t
 Launcher Type: SUN_STANDARD
 

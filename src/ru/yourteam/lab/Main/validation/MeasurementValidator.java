@@ -1,4 +1,4 @@
-package main.java.validation;
+package ru.yourteam.lab.Main.validation;
 
 public final class MeasurementValidator {
     private static final int MAX_UNIT_LENGTH = 16;

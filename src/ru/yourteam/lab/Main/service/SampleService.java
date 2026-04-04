@@ -1,9 +1,9 @@
-package main.java.service;
+package ru.yourteam.lab.Main.service;
 
-import main.java.domain.Sample;
-import main.java.domain.SampleStatus;
-import main.java.validation.SampleValidator;
-import main.java.validation.ValidationException;
+import ru.yourteam.lab.Main.domain.Sample;
+import ru.yourteam.lab.Main.domain.SampleStatus;
+import ru.yourteam.lab.Main.validation.SampleValidator;
+import ru.yourteam.lab.Main.validation.ValidationException;
 
 import java.util.ArrayList;
 import java.util.List;

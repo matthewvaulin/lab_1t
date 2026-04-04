@@ -1,4 +1,4 @@
-package main.java.domain;
+package ru.yourteam.lab.Main.domain;
 
 public enum SampleStatus {
     ACTIVE,

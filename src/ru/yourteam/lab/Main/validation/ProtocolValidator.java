@@ -1,6 +1,6 @@
-package main.java.validation;
+package ru.yourteam.lab.Main.validation;
 
-import main.java.domain.MeasurementParam;
+import ru.yourteam.lab.Main.domain.MeasurementParam;
 
 import java.util.Set;
 

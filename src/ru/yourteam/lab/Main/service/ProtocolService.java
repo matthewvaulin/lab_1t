@@ -1,8 +1,8 @@
-package main.java.service;
+package ru.yourteam.lab.Main.service;
 
-import main.java.domain.MeasurementParam;
-import main.java.domain.Protocol;
-import main.java.validation.ProtocolValidator;
+import ru.yourteam.lab.Main.domain.MeasurementParam;
+import ru.yourteam.lab.Main.domain.Protocol;
+import ru.yourteam.lab.Main.validation.ProtocolValidator;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;

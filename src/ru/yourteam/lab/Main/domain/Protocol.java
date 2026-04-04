@@ -1,4 +1,4 @@
-package main.java.domain;
+package ru.yourteam.lab.Main.domain;
 
 import java.time.Instant;
 import java.util.LinkedHashSet;
